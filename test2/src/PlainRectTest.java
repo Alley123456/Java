@@ -42,7 +42,7 @@ class PlainRect extends Rect {
     }
 }
 
-class PlainRectTest {
+public class PlainRectTest {
     public static void main(String[] args) {
         PlainRect target = new PlainRect(10, 10, 20, 10);
         System.out.println("矩形的面积是：" + target.area());

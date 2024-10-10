@@ -30,7 +30,7 @@ class Test2 implements Ia, Ib {
     }
 }
 
-public class Test3 {
+public class Score {
     public static void main(String[] args) {
         int[] score = { 88, 89, 82, 90, 98 };
         Test2 t = new Test2();
